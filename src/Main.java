@@ -38,12 +38,12 @@ public class Main {
 
     // 3. morningGreeting
     public static String morningGreeting(String tobyFox) {
-        return ("早上好, " + tobyFox);
+        return ("早上好, " + tobyFox) + "!";
     }
 
     // 4. afternoonGreeting
     public static String afternoonGreeting(String macMiller) {
-        return ("下午好, " + macMiller);
+        return ("下午好, " + macMiller + "!");
     }
 
     // 5. triple
